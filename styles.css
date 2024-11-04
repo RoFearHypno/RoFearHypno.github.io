@@ -1,0 +1,26 @@
+body {
+    background-color: #1f1e1e;
+}
+
+.title {
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   font-weight: 400;
+   font-size: smaller;
+   color: #ededed;
+   margin-left: 50px;
+}
+
+.titledescription {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-weight:100;
+    font-size: smaller;
+    color: #858282;
+    margin-top: -7px;
+    margin-left: 50px;
+ }
+
+.robloxstudioicon {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
